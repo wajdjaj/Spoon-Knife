@@ -1,4 +1,7 @@
 rabbit.py
 
-#This rabbit is beautiful
-#For loop = 1
+##noioooo merg conflicts
+#This rabbit is beautiful !"#!"#
+## !¤!"¤!"#!"3"
+#For loop !11111111= 1
+# #!"#!"#¤
